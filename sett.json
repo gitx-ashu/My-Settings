@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "SynthWave '84",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorStyle": "block",
+    "editor.formatOnPaste": true,
+    "editor.renderIndentGuides": true,
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 15,
+    
+}
